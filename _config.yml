@@ -8,8 +8,8 @@ description:      프로젝트 세카이 컬러풀 스테이지! 한국 서버�
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://AiriMomoi.github.io'
-baseurl:          '/mmv'
+url:              'https://8801062012725.github.io'
+baseurl:          '/test'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
